@@ -7,5 +7,5 @@ To get started with our Book Recommendation System, follow these steps:
 
 Clone the repository to your local machine.            
 Install the necessary dependencies outlined in the requirements file.                                 
-Run the system and explore the features.                      
+Run the system and explore the features.                        
 Customize the system to suit your preferences or integrate it into your platform  .                   
